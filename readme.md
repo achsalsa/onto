@@ -5,7 +5,7 @@ ceci est la description de mon fichier ttl en markdown, et le processs de realis
 3. enregister ca en local.
 4. ensuite l'importer dans omeka vue que ce CMS ne supporte pas le https
 
-Afin que l'importation ce deroule comme sur du boeur il faut:
+## NB Afin que l'importation ce deroule comme sur du boeur il faut:
 - Specifier le ba bonne URI: http://purl.org/ontology/mo/
 - Specifier le bon prefix: mmmmo
 
