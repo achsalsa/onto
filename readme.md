@@ -9,5 +9,5 @@ Afin que l'importation ce deroule comme sur du boeur il faut:
 - Specifier le ba bonne URI: http://purl.org/ontology/mo/
 - Specifier le bon prefix: mmmmo
 
-Merci pour votre lecture et la prochaine avec de nouvelles ontologies.
+Merci pour votre lecture et à la prochaine avec de nouvelles ontologies.
 Gracias
